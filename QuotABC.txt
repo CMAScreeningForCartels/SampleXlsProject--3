@@ -8,4 +8,4 @@ No.	Name Material	Qty	Price 	Amount
 				
 This our quotation 				
 				
-Thank You				
+Thank You.				
